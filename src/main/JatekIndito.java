@@ -6,8 +6,10 @@ public class JatekIndito {
 
 
     public static void main(String[] args) {
-            Jatek elso = new Jatek();
-            elso.start();
+            Jatek jatek = new Jatek();
+            jatek.start();
+            //jatek.MAX  =100 ;
+            
         
     }
     
